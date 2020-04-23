@@ -10,7 +10,7 @@ Who is most likely to respond for an offer of a good or service?
 Data Source: https://www.kaggle.com/rodsaldanha/arketing-campaign
 
 Data Legend: (column_name - explanation)
-AcceptedCmp1 - 1 if customer accepted the offer in the 1st campaign, 0 otherwise /n
+AcceptedCmp1 - 1 if customer accepted the offer in the 1st campaign, 0 otherwise 
 
 AcceptedCmp2 - 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
 AcceptedCmp3 - 1 if customer accepted the offer in the 3rd campaign, 0 otherwise
