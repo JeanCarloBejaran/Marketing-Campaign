@@ -3,25 +3,13 @@
 Exploratory Data Analysis of marketing campaigns data for a given consumer goods company.
 
 # Business Case:
-We are trying to maximize the profit on our next business campaign. 
-Who is most likely to respond for an offer of a good or service?
+Analyze our Customer's database and report on the status of the business, and possible opportunities for expansion.
+
 
 
 Data Source: https://www.kaggle.com/rodsaldanha/arketing-campaign
 
 # Data Legend: (column_name - explanation)
-
-AcceptedCmp1 - 1 if customer accepted the offer in the 1st campaign, 0 otherwise 
-
-AcceptedCmp2 - 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
-
-AcceptedCmp3 - 1 if customer accepted the offer in the 3rd campaign, 0 otherwise
-
-AcceptedCmp4 - 1 if customer accepted the offer in the 4th campaign, 0 otherwise
-
-AcceptedCmp5 - 1 if customer accepted the offer in the 5th campaign, 0 otherwise
-
-Response (target) - 1 if customer accepted the offer in the last campaign, 0 otherwise
 
 Complain - 1 if customer complained in the last 2 years
 
@@ -60,3 +48,6 @@ NumWebPurchases - number of purchases made through company’s web site
 NumWebVisitsMonth - number of visits to company’s web site in the last month
 
 Recency - number of days since the last purchase
+
+
+
