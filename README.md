@@ -1,4 +1,4 @@
-# Marketing-Campaign
+# Marketing Data Analysis and Business Analytics
 
 Exploratory Data Analysis of marketing campaigns data for a given consumer goods company.
 
