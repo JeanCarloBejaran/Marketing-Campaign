@@ -1,5 +1,7 @@
 # Marketing Data Analysis and Business Analytics
 
+Development Status: Ongoing.
+
 Exploratory Data Analysis of marketing campaigns data for a given consumer goods company.
 
 # Business Case:
